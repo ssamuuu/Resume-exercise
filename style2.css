@@ -1,0 +1,23 @@
+body{ color: black;
+    font-size: 16px;
+    background-color: beige;
+}
+
+h1{color: black; 
+    text-decoration: overline;
+    background-color: hotpink;
+}
+
+h2{ text-decoration: underline;}
+
+li{ font-style: oblique;}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    border-radius: 50%;}
+
+
